@@ -1,0 +1,2 @@
+Author: John Ventura
+Description: A book written by a lawyer that explains the basics of different areas of the law, especially common occurrences and legal tips that are directly applicable to the reader's life, like contracts and family law.
