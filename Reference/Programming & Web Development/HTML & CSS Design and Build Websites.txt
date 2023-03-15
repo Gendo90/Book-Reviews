@@ -1,0 +1,2 @@
+Author: Jon Duckett
+Description: A beginner-friendly guide to HTML5 and CSS, including advanced sections on search engine optimization (SEO) and video hosting. This book teaches you everything you need to know to build your first website, explaining major HTML and CSS features and functions piece-by-piece.

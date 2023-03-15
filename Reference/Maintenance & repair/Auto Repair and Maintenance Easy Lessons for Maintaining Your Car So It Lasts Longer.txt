@@ -1,0 +1,2 @@
+Author: David Stribling
+Description: A basic car repair and maintenance book to help a car owner troubleshoot issues and understand their car better. Especially recommended for new car owners to start to learn some common issues and fixes.
